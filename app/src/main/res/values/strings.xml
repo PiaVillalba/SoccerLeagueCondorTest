@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SoccerLeagues</string>
+
+    <!-- Vista main -->
+    <string name="spanish_league">Spanish La Liga</string>
+    <string name="premier_league">Premier League</string>
+    <string name="italian_league">Italian Serie A</string>
+
+    <!-- Vista detalle equipo -->
+    <string name="team_name">Nombre</string>
+    <string name="team_foundation">Año fundación</string>
+    <string name="team_description">Descripción</string>
+    <string name="team_logo">Logo</string>
+    <string name="team_camiseta">Camiseta</string>
+    <string name="team_next_events">Próximos eventos</string>
+    <string name="team_redes">Redes sociales</string>
+
+</resources>
